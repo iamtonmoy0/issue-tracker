@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Simple Issue Tracker Application
+
+### Tech used~>
+
+- Next 14
+- Mysql
+- Prisma
+- Tailwind
+- Next UI
 
 ## Getting Started
 
